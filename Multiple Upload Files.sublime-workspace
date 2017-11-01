@@ -1,0 +1,758 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"html-",
+				"html-appointmentDate"
+			],
+			[
+				"case",
+				"caseAppointmentWrapper"
+			],
+			[
+				"Case",
+				"CaseAppointmentWrapper"
+			],
+			[
+				"ser",
+				"serviceOrderWrappers"
+			],
+			[
+				"serviceOrder",
+				"serviceOrderWrapper"
+			],
+			[
+				"Create",
+				"Created_Date__c"
+			],
+			[
+				"Pro",
+				"Proposed_Tariff__c"
+			],
+			[
+				"MS",
+				"MBS_ID__c"
+			],
+			[
+				"B",
+				"B2B_Id__c"
+			],
+			[
+				"serviceOrde",
+				"serviceOrderWrapper"
+			],
+			[
+				"Servire",
+				"ServiceOrderWrapper"
+			],
+			[
+				"service",
+				"serviceOrderWrapper"
+			],
+			[
+				"Service",
+				"ServiceOrderWrapper"
+			],
+			[
+				"postcode",
+				"postcodeConfirm"
+			],
+			[
+				"btn-",
+				"btn-primary"
+			],
+			[
+				"stat",
+				"startDate"
+			],
+			[
+				"retailer",
+				"retailerCSD"
+			],
+			[
+				"ausgrid",
+				"ausgridOfficer"
+			],
+			[
+				"req",
+				"require-broker"
+			],
+			[
+				"site",
+				"site-details"
+			],
+			[
+				"priceRule",
+				"priceRulesDefault"
+			],
+			[
+				"Atta",
+				"Attachment"
+			],
+			[
+				"Contr",
+				"ContractRenewalSummaryPage"
+			],
+			[
+				"new",
+				"newPage"
+			],
+			[
+				"New",
+				"NewInstallSummary1〔function〕"
+			],
+			[
+				"get",
+				"PUBLIC getParameters() \tMAP<String,String>"
+			],
+			[
+				"Commui",
+				"CommunitiesMeteringRequestController"
+			],
+			[
+				"task",
+				"TaskWrapper"
+			],
+			[
+				"contact",
+				"contactCase"
+			],
+			[
+				"Cancel",
+				"CancelContact"
+			],
+			[
+				"re",
+				"refresh_token"
+			],
+			[
+				"mes",
+				"apex:pageMessages"
+			],
+			[
+				"control",
+				"control-label"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"Date",
+				"DateTime"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"page",
+				"PageReference"
+			],
+			[
+				"se",
+				"apex:selectOption"
+			],
+			[
+				"datetime",
+				"contactDateTime"
+			],
+			[
+				"Comm",
+				"CommunitiesAppointmentController"
+			],
+			[
+				"contr",
+				"control-label"
+			],
+			[
+				"After",
+				"After_Hours_Status__c"
+			],
+			[
+				"All",
+				"All_Day_Status__c"
+			],
+			[
+				"contactDat",
+				"contactDateTime"
+			],
+			[
+				"Rec",
+				"RecordType"
+			],
+			[
+				"atta",
+				"attachment"
+			],
+			[
+				"Attachment",
+				"AttachmentWrapper"
+			],
+			[
+				"caseW",
+				"caseWrappers"
+			],
+			[
+				"Attac",
+				"AttachmentWrapper"
+			],
+			[
+				"table-",
+				"table-responsive"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"disa",
+				"disabled=\"true"
+			],
+			[
+				"Re",
+				"RegionAvailability"
+			],
+			[
+				"Serive",
+				"Service_Order__c"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"Status",
+				"Status__c"
+			],
+			[
+				"Statu",
+				"Status__c"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"defaul",
+				"defaultDate〔variable〕"
+			],
+			[
+				"set",
+				"PUBLIC setRedirect(Boolean redirect) \tSystem.PageReference"
+			],
+			[
+				"sea",
+				"searchSOs"
+			],
+			[
+				"palce",
+				"placeOnHold"
+			],
+			[
+				"Stt",
+				"Status__c"
+			],
+			[
+				"Serv",
+				"Service_Order__c"
+			],
+			[
+				"place",
+				"placeOnHold"
+			],
+			[
+				"pla",
+				"placeOnHold"
+			],
+			[
+				"FR",
+				"FRMP__c"
+			],
+			[
+				"add",
+				"addContact"
+			],
+			[
+				"row",
+				"div.row"
+			],
+			[
+				"style",
+				"styleClass\t(String)"
+			],
+			[
+				"b",
+				"b2bId"
+			],
+			[
+				"Sta",
+				"Status"
+			],
+			[
+				"can",
+				"cancellation"
+			],
+			[
+				"brok",
+				"brokerContractTerm"
+			],
+			[
+				"opp",
+				"opportunitys"
+			],
+			[
+				"broker",
+				"broker1"
+			],
+			[
+				"service1",
+				"service1Id"
+			],
+			[
+				"regio",
+				"regions"
+			],
+			[
+				"Contract_",
+				"Contract_Term__c"
+			],
+			[
+				"che",
+				"checksum"
+			],
+			[
+				"bean",
+				"beanCheckSum"
+			],
+			[
+				"change",
+				"changeRequest〔variable〕"
+			],
+			[
+				"email",
+				"emailMessage"
+			],
+			[
+				"name",
+				"nameMessage"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"counter",
+				"counter-increment"
+			],
+			[
+				"parse",
+				"parseInt〔function〕"
+			],
+			[
+				"install",
+				"installTypeValidate"
+			],
+			[
+				"paren",
+				"parents"
+			],
+			[
+				"mess",
+				"apex:pageMessage"
+			],
+			[
+				"Oppor",
+				"OpportunityService"
+			],
+			[
+				"RP",
+				"RP_New__c"
+			],
+			[
+				"out",
+				"apex:outputText"
+			],
+			[
+				"CommunitiesCon",
+				"CommunitiesContractDetailsContractPage\t[Visualforce Page]"
+			],
+			[
+				"CommunitiesMar",
+				"CommunitiesMarketContractPage\t[Visualforce Page]"
+			],
+			[
+				"CommunitiesSite",
+				"CommunitiesSiteDetailsContractPage\t[Visualforce Page]"
+			],
+			[
+				"Page",
+				"PageReference\t[Standard Apex Class]"
+			],
+			[
+				"babel",
+				"babel"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"st",
+				"style\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"br",
+				"git: branch"
+			],
+			[
+				"bran",
+				"git: branch"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 510.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/cloudindustry/Documents/Multiple Upload Files",
+		"/C/Users/cloudindustry/Documents/Multiple Upload Files/src"
+	],
+	"file_history":
+	[
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/Aside.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewAppointment.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/CommunitiesAppointmentController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContactHistory.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/Appointment.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestService.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestService.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestContract.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/CommunitiesMeteringRequestController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestContract.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequest.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestNMI.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestNMI.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestAttachment.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestSummary.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestSummary.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequest.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestMarket.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestAttachment.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/CommunitiesMeteringRequestController.cls-meta.xml",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/AppointmentStyle.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/AttachmentService.cls-meta.xml",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/Notes.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/BoxAttachmentTest.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/BoxAttachmentController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/BoxAttachment.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportMeterRequestStatus.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/MeterRequestReportStatusController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/PageMessages.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestMarket.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/AppointmentPageMessageController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/CaseBoxAttachmentController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/AppointmentPageMessage.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/BoxApiController.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/CaseBoxAttachment.component",
+		"/C/Users/cloudindustry/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/cloudindustry/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/TestUtility.cls",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/AppointmentScript.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/StyleResource.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/ScriptResource.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/Style.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewAppointment.page-meta.xml",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/NewInstallMeteringRequestSite.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/components/Meta.component",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/Home.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ContractRenewalMeteringRequestSite.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/classes/PageMessagesController.cls",
+		"/C/Users/cloudindustry/Desktop/BoxAttachmentPutMockJSON.json",
+		"/C/Users/cloudindustry/Desktop/BoxAttachmentGetMockJSON",
+		"/C/Users/cloudindustry/Desktop/BoxAttachmentPutMockJSON",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportApprovalQueue.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/MeteringServiceDashboard.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportBulkMeterRequest.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportMeterServiceByStatus.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportMeterServiceDetail.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportNMIandMeterDetails.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportSiteEnqueries.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/ReportSiteInformation.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/UserManagement.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/UserProfile.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/MeteringService.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/MeteringRequestDashboard.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/BulkMeteringRequest.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/DownloadTemplates.page",
+		"/C/Users/cloudindustry/Documents/ausgrid-dev-community/src/pages/CommunityReportUserAdministrationPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestSummary.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestSummary.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestSite.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestNMI.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestService.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestContract.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestMarket.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequestAttachment.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ContractRenewalMeteringRequest.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestSite.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestService.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestNMI.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestMarket.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestContract.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequestAttachment.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/NewInstallMeteringRequest.page",
+		"/C/Users/cloudindustry/Downloads/breadcrumbs-and-multistep-indicator/index.html",
+		"/C/Users/cloudindustry/Downloads/breadcrumbs-and-multistep-indicator/test.html",
+		"/C/Users/cloudindustry/Downloads/breadcrumbs-and-multistep-indicator/css/style.css",
+		"/C/Users/cloudindustry/Downloads/Cloudindustry Project/breadcrumbs-and-multistep-indicator/css/style.css",
+		"/C/Users/cloudindustry/Downloads/Cloudindustry Project/breadcrumbs-and-multistep-indicator/index.html",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/ArrowBar.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesRequestDetailsContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/classes/CommunitiesMeteringRequestController.cls",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesSiteDetailsContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesMarketContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesContractDetailsContractPage.page",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/demos/02_introducingJSX/index.html",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesNMIDetailsContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesServiceContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesSummaryContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesAttachmentsContractPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesServicesPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesContractDetailsPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesMarketParticipantsPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesRequestDetailsPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesSiteDetailsPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesFullDetailsPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesAttachmentsPage.page",
+		"/C/Users/cloudindustry/Documents/Ausgrid/src/pages/CommunitiesNMIDetailsPage.page",
+		"/C/xampp/htdocs/Project/MyWeb/css/style.css",
+		"/C/xampp/htdocs/Project/MyWeb/index.html",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/demos/01_simpleDemo/index.html",
+		"/C/Users/cloudindustry/Documents/Ausgrid Community/src/components/Aside.component",
+		"/C/Users/cloudindustry/Documents/Ausgrid Community/src/pages/CommunitiesContractRequestDetailsPage.page",
+		"/C/Users/cloudindustry/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/cloudindustry/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/cloudindustry/Documents/Ausgrid Community/src/pages/CommunitiesRequestDetailsPage.page",
+		"/C/Users/cloudindustry/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/cloudindustry/AppData/Roaming/Sublime Text 3/Packages/MavensMate/sublime/settings-help.txt",
+		"/C/Users/cloudindustry/Downloads/breadcrumbs-and-multistep-indicator/ajax.html",
+		"/C/Users/cloudindustry/Downloads/breadcrumbs-and-multistep-indicator/css/custom.css",
+		"/C/Users/cloudindustry/Downloads/breadcrumbs-and-multistep-indicator/progrss.html",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/demos/04_componentsAndProps/index.html",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/demos/03_renderingElements/index.html",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/demos/02_simpleComponent/index.html",
+		"/C/xampp/htdocs/project/React-Tutorials/src/demos/00_template/index.html",
+		"/C/xampp/htdocs/project/React-Tutorials/src/demos/01_simpleDemo/index.html",
+		"/C/xampp/htdocs/project/React-Tutorials/src/css/style.css",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/js/customize.js",
+		"/C/xampp/htdocs/Project/React-Tutorials/src/css/style.css",
+		"/C/xampp/htdocs/Project/Git/Tutorials/index.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Multiple Upload Files.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
