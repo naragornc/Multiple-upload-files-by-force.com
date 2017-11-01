@@ -1,3 +1,11 @@
 <apex:component controller="UploadController">
 	<apex:attribute name="parentId" description="The Id of record uploaded files" type="String" required="true"/>
+
+    <div>
+		<table>
+			<tr>
+				<td><input type="file" name="file" multiple="true" id="files"/></td>
+			</tr>
+		</table>
+	</div>
 </apex:component>
